@@ -1,7 +1,5 @@
-# Flea-Market-App  
-
-# 確認テスト　PiGLy
-
+# 模擬案件　　フリマアプリ  
+  
 ## 環境構築
 Dockerビルド  
 1.git clone 
