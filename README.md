@@ -34,6 +34,7 @@ php artisan db:seed
 
 ## ER図  
  
+<img width="477" alt="模擬案件　フリマアプリ　ER図" src="https://github.com/user-attachments/assets/8fff09e3-a92f-4268-8ef4-101e8ee91e0d" />
 
 ## URL
 ・開発環境：http://localhost/  
